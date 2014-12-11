@@ -33,7 +33,7 @@
         <artifactId>heroku-maven-plugin</artifactId>
         <version>0.1.8</version>
         <configuration>
-          <appName>mighty-bastion-1236</appName>
+          <appName>possessed-cemetery-7933</appName>
           <processTypes>
             <web>java $JAVA_OPTS -cp target/classes:target/dependency/* Main</web>
           </processTypes>
